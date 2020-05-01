@@ -1,5 +1,5 @@
 # Simulação de um Banco
-Atividade de aprendizagem da linguagem de programação C#. Concluída em 08/03/2019.
+Atividade de aprendizagem para a linguagem de programação C#. Concluída em 08/03/2019.
 
 ## Features
 * Criação de conta (corrente e poupança)
